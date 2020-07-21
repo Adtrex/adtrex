@@ -144,7 +144,7 @@
       <hr align="left" class="hr-works">
     </div>
     <br class="work-break">
-    <p>A store locator web application <a href="https://www.sitmap.imfast.io" class="orange">CLICK TO VISIT</a></p>
+    <p>A store locator web application <a href="https://sitmap.imfast.io" class="orange">CLICK TO VISIT</a></p>
   </div>
 </div>
 </div>
@@ -271,7 +271,7 @@
   <a class="orange font-icon" href="https://www.github.com/adtrex"><i class="fab fa-github"></i></a>
   <a class="orange font-icon" href="https://www.instagram.com/adtrex_dev"><i class="fab fa-instagram"></i></a>
   <a class="orange font-icon" href="https://www.twitter.com/adtrex_dev"><i class="fab fa-twitter"></i></a>
-  <a class="orange font-icon" href="https://www.twitter.com/adtrex_dev"><i class="fab fa-linkedin-in"></i></a>
+  <a class="orange font-icon" href="https://www.linkedin.com/in/tolulope-adekunte-8a2891185/"><i class="fab fa-linkedin-in"></i></a>
   
 </center>
 </div>
