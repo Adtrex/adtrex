@@ -108,7 +108,7 @@
       	<p style="margin-bottom: 8px;">I'M AD<span class="orange">TREX</span></p>
       	<p style=" margin-bottom: 8px;">A <span class="orange">CREATIVE</span> WEB DEVELOPER</p>
        <div>
-      <button class="btn1">CONTACT ME</button></div></div>
+      <a class="btn1" href="mailto:toluadekunte@gmail.com">CONTACT ME</a></div></div>
    </div> 
 
 <div style=" margin-top: -100px;" class="polygon"> 
@@ -262,7 +262,7 @@
   <hr class="contact-hr">
   <div style="margin-top: 30px; margin-bottom: 30px;">
   <p>I would build an amazing website for you</p>
-<button class="btn2">CONTACT ME</button>
+<a class="btn2" href="mailto:toluadekunte@gmail.com">CONTACT ME</a>
 </div>
 </div>
 
