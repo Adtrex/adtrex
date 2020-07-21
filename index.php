@@ -56,7 +56,7 @@
             </div>
           </div>
           <div class="navbar-nav ml-auto ">
-            <li class="btn-sidenav"><span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; </span></li>
+            <li class="btn-sidenav"><span style="font-size:30px;cursor:pointer" onclick="openNav()"><i class="fa fa-bars" aria-hidden="true"></i> </span></li>
           </div>
 
           <div id="mySidenav" class="sidenav">
