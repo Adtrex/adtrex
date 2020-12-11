@@ -24,6 +24,7 @@
 
 </head>
 <body class="body">
+	<div class="snow" />
 	<header>
 	<div class="bs-example">
     <nav class="navbar navbar-expand-md ">
