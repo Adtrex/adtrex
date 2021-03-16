@@ -311,7 +311,7 @@
     <div class="line-about"><h1>KING ADEBUSS ENTERPRISES</h1>
     <hr align="left" class="hr-works"></div>
 
-    <p>A website for an investment company <a href="https://www.kingadebussenterprise.com" class="orange">CLICK TO VISIT</a></p>
+    <p>A website for an investment company <a href="#" class="orange">CLICK TO VISIT</a></p>
 
   </div>
 </div>
