@@ -261,7 +261,7 @@
     <div class="line-about"><h1>GMG RADIO</h1>
     <hr align="left" class="hr-works"></div>
 
-    <p>A website for a radio <a href="https://www.gmgradioua.com" class="orange">CLICK TO VISIT</a></p>
+    <p>A website for a radio company <a href="https://www.gmgradioua.com" class="orange">CLICK TO VISIT</a></p>
 
   </div>
 </div>
@@ -336,7 +336,7 @@
     <div class="line-about"><h1>GET VIRAL</h1>
     <hr align="left" class="hr-works"></div>
 
-    <p>A website for people advertisers & influencers <a href="https://getviral.ml" class="orange">CLICK TO VISIT</a></p>
+    <p>A website for advertisers & influencers <a href="https://getviral.ml" class="orange">CLICK TO VISIT</a></p>
 
   </div>
 </div>
