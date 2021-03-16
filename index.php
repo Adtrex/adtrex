@@ -261,7 +261,7 @@
     <div class="line-about"><h1>GMG RADIO</h1>
     <hr align="left" class="hr-works"></div>
 
-    <p>A consultancy website <a href="https://www.gmgradioua.com" class="orange">CLICK TO VISIT</a></p>
+    <p>A website for a radio <a href="https://www.gmgradioua.com" class="orange">CLICK TO VISIT</a></p>
 
   </div>
 </div>
