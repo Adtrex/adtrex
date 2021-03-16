@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Adekunte Tolulope (Adtrex)</title>
-	<link rel="stylesheet" type="text/css" href="main.css">
-	<!-- Required meta tags -->
+  <title>Adekunte Tolulope (Adtrex)</title>
+  <link rel="stylesheet" type="text/css" href="main.css">
+  <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1, maximum-scale=1" />
@@ -22,7 +22,7 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
 
-	<!--  <style>
+  <!--  <style>
 .editor-stage .snow {
   height:50px;
   background: #fff;
@@ -64,16 +64,16 @@
   100% {background-position: 500px 1000px, 200px 400px, -100px 300px;}
 }
 </style>-->
-	
+  
 </head>
 <body class="body">
-	<!--<div class="snow" >
-	</div>-->
-	<header>
-	<div class="bs-example">
+  <!--<div class="snow" >
+  </div>-->
+  <header>
+  <div class="bs-example">
     <nav class="navbar navbar-expand-md ">
-    	<div style="margin-left: 20px;">
-    	<a class="navbar-brand" href="#">
+      <div style="margin-left: 20px;">
+      <a class="navbar-brand" href="#">
         <span class="icon-rotate">
     <img src="https://res.cloudinary.com/de8awjxjn/image/upload/v1595353106/RECTANGLE.png" width="30" height="30" class="d-inline-block align-top" alt="">
   </span>
@@ -83,7 +83,7 @@
 
           <div class="collapse navbar-collapse">
             <div class="navbar-nav ml-auto ">
-            	<div class="nav-margin " >
+              <div class="nav-margin " >
                 <a href="#home" class="nav-item nav-link active text-white "><span class="orange"> HOME</span></a></div>
                 <div class="nav-margin">
                 <a href="#project" class="nav-item nav-link active text-white nav-merge ">PROJECTS</a></div>
@@ -144,14 +144,14 @@
 </header>
 
 <div class="container" id="home"> 
-	<center>
+  <center>
    <div class="row slideanim" style=" margin-top: 8%;"> 
       <div class="col-sm text-white pic-align" style="padding-left: 0px; " ><img src="tolu.jpg" width="200" height="200" style="border-radius: 100%;  "></div>
       <div class="col-sm text-white about-align" style="margin-top: 40.1px;  ">
 
-      	<p style="margin-bottom: 8px;">HELLO!</p>
-      	<p style="margin-bottom: 8px;">I'M AD<span class="orange">TREX</span></p>
-      	<p style=" margin-bottom: 8px;">A <span class="orange">CREATIVE</span> WEB DEVELOPER</p>
+        <p style="margin-bottom: 8px;">HELLO!</p>
+        <p style="margin-bottom: 8px;">I'M AD<span class="orange">TREX</span></p>
+        <p style=" margin-bottom: 8px;">A <span class="orange">CREATIVE</span> WEB DEVELOPER</p>
        <div>
       <a class="btn1" href="mailto:toluadekunte@gmail.com">CONTACT ME</a></div></div>
    </div> 
@@ -189,7 +189,7 @@
       <hr align="left" class="hr-works">
     </div>
     <br class="work-break">
-    <p>A store locator web application <a href="https://sitmap.imfast.io" class="orange">CLICK TO VISIT</a></p>
+    <p>A store locator web application <a href="https://adtrex.github.io/storetracker/" class="orange">CLICK TO VISIT</a></p>
   </div>
 </div>
 </div>
@@ -246,12 +246,115 @@
   </center>
 </div>
 </div>
+
+<div class="home-page-2 container slideanim">
+
+<div class="home-about ">
+<center>
+<div class="row">
+<div class="col ">
+   <img class="aboutpic" src="img/project4.png">
+</div>
+<br /><br />
+  <div class="col-sm " >
+  <div class="box-about">
+    <div class="line-about"><h1>GMG RADIO</h1>
+    <hr align="left" class="hr-works"></div>
+
+    <p>A consultancy website <a href="https://www.gmgradioua.com" class="orange">CLICK TO VISIT</a></p>
+
+  </div>
+</div>
+</div>
+  
+</div>
+  </center>
+</div>
+</div>
+
+<div class="home-page-2 container slideanim">
+
+<div class="home-about ">
+<center>
+<div class="row">
+<div class="col ">
+   <img class="aboutpic" src="img/project5.png">
+</div>
+<br /><br />
+  <div class="col-sm " >
+  <div class="box-about">
+    <div class="line-about"><h1>ORANGE CARD</h1>
+    <hr align="left" class="hr-works"></div>
+
+    <p>A website for teachers to redeem a priviledge master card <a href="https://www.orangecard.ng" class="orange">CLICK TO VISIT</a></p>
+
+  </div>
+</div>
+</div>
+  
+</div>
+  </center>
+</div>
+</div>
+
+<div class="home-page-2 container slideanim">
+
+<div class="home-about ">
+<center>
+<div class="row">
+<div class="col ">
+   <img class="aboutpic" src="img/project6.png">
+</div>
+<br /><br />
+  <div class="col-sm " >
+  <div class="box-about">
+    <div class="line-about"><h1>KING ADEBUSS ENTERPRISES</h1>
+    <hr align="left" class="hr-works"></div>
+
+    <p>A website for an investment company <a href="https://www.kingadebussenterprise.com" class="orange">CLICK TO VISIT</a></p>
+
+  </div>
+</div>
+</div>
+  
+</div>
+  </center>
+</div>
+</div>
+
+<div class="home-page-2 container slideanim">
+
+<div class="home-about ">
+<center>
+<div class="row">
+<div class="col ">
+   <img class="aboutpic" src="img/project7.png">
+</div>
+<br /><br />
+  <div class="col-sm " >
+  <div class="box-about">
+    <div class="line-about"><h1>GET VIRAL</h1>
+    <hr align="left" class="hr-works"></div>
+
+    <p>A website for people advertisers & influencers <a href="https://getviral.ml" class="orange">CLICK TO VISIT</a></p>
+
+  </div>
+</div>
+</div>
+  
+</div>
+  </center>
+</div>
+</div>
+
+
+
 </div>
 
 <div class="about-me container" id="about">
    <center><h1 class="about-head slideanim" >About Me</h1>
 
-   <p class="slideanim" style="text-align: justify;">My name is Adekunte Tolulope and I am the founder of <a href="https://www.techunknown.com" style="color:#F8420B; ">Techunknown</a> (a blog that keeps people updated on latest technology & gadgets) which has over 5000 audience. I have been in the programming world for over 2 years now and have attended various internships such as Hng Internship & start.ng. I have contributed to various projects and presently work with <a href="https://www.webcraddle.com" style="color:#F8420B;">WebCraddle</a> (a team of talented youth) to inspire people in this digital age.</p>
+   <p class="slideanim" style="text-align: justify;">My name is Adekunte Tolulope and I am the founder of <a href="https://www.techunknown.com" style="color:#F8420B; ">Techunknown</a> (a blog that keeps people updated on latest technology & gadgets) which has over 5000 audience. I have been in the programming world for over 3 years now and have attended various internships such as Hng Internship & start.ng. I have contributed to various projects and presently work with <a href="https://www.webcraddle.com" style="color:#F8420B;">WebCraddle</a> (a team of talented youth) to inspire people in this digital age.</p>
   </center>
 </div>
 
@@ -268,6 +371,7 @@
       <p>JavaScript</p>
       <p>Jquery</p>
       <p>Bootstrap</p>
+      <p>React</p>
     </div>
      <div class="col-sm col-md-4 slideanim">
       <i class="fas fa-database orange skills-icon"></i>
@@ -285,8 +389,8 @@
     <div class="col-sm col-md-4 slideanim">
       <i class="fas fa-wrench orange skills-icon"></i>
       <h1>Tools</h1>
-      <p>Bootstrap</p>
       <p>Github</p>
+      <p>Bitbucket</p>
       <p>Heroku</p>
       <p>Jest</p>
       <p>AWS</p>
