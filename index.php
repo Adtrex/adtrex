@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head>
+<head> 
   <title>Adekunte Tolulope (Adtrex)</title>
   <link rel="stylesheet" type="text/css" href="main.css">
   <!-- Required meta tags -->
